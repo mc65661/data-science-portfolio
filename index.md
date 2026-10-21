@@ -23,3 +23,4 @@ I am a student at the University of Macau (Student ID: MC656619). This portfolio
 **Project Repository:** [data-science-project](https://github.com/mc65661/data-science-project)
 
 **Status:** Completed
+*Updated after classmate peer review.*
